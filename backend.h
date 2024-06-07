@@ -1,0 +1,10 @@
+#pragma once
+void backendLogin();
+void backendSignUp();
+void backendWelcome();
+void backendMainMenu();
+void backendFoodMenu();
+void backendDrinkMenu();
+void backendSoftDrinksMenu();
+void backendPreMadeDrinks();
+void backendCustomDrinks();

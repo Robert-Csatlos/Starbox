@@ -1,0 +1,14 @@
+#pragma once
+void interfaceWelcome();
+void interfaceLogin();
+void interfaceSignUp();
+void interfaceGuest();
+void interfaceMainMenu();
+void interfaceSignUpSuccess();
+void interfaceLogInSuccess();
+void interfaceFoodMenu();
+void interfaceDrinkMenu();
+void interfaceSoftDrinks();
+void interfacePreMadeDrinks();
+void interfaceCustomDrink();
+void interfaceReceipt();
